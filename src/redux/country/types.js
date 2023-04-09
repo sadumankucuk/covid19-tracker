@@ -1,0 +1,3 @@
+export const GET_COUNTRY_DATA = "GET_COUNTRY_DATA";
+export const SET_COUNTRY_DATA = "SET_COUNTRY_DATA";
+export const SET_ERROR = "SET_ERROR";

@@ -1,0 +1,1 @@
+window._env = {"NODE_ENV":"development","REACT_APP_MAPBOX_TOKEN":"pk.eyJ1Ijoic2FkdW1hbiIsImEiOiJjbGcxM21mdzQxZDlwM2NwaHI5Zmxrc3V3In0.lkdKd_FLjA2ffd4EKUZoSg","REACT_APP_RAPID_API_KEY":"a4a04b8a80msh9a002f300d86f9ap196978jsnc517de441136"};
